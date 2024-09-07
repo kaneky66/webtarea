@@ -13,6 +13,6 @@ tarea
         </script>
     </head>
     <body>
-        <div> todo</div>
+        <div>este codigo HTML trata de escribir tu nombre y te de la bienvenida</div>
     </body>
 </html>
